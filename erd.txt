@@ -17,8 +17,8 @@ rel dept_manager_junction
 
 dept_emp_junction
 -
-dept_no VARCHAR FK - departments.dept_no
 emp_no VARCHAR FK - employees.emp_no
+dept_no VARCHAR FK - departments.dept_no
 -
 
 dept_manager_junction
